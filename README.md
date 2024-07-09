@@ -1,4 +1,4 @@
-### Hi, I'm Thuann 👋
+### Hi, I'm Augustt 👋
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
