@@ -7,13 +7,14 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               21 mins             █████████████████████████   99.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -29,5 +30,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025 01:01:00 UTC
+ Last Updated on 04/02/2025 00:59:52 UTC
 <!--END_SECTION:waka-->
