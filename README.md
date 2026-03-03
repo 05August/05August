@@ -7,31 +7,31 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 46 mins       █████████████████░░░░░░░░   66.39 % 
-HTML                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Astro                    5 hrs 15 mins       █████████████░░░░░░░░░░░░   50.52 % 
+TypeScript               2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 10 mins       █████████████████████████   100.00 % 
+Cursor                   10 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████████████░░░░░░░░░░░   54.17 % 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 02/03/2026 01:43:39 UTC
+ Last Updated on 03/03/2026 01:46:12 UTC
 <!--END_SECTION:waka-->
