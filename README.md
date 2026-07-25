@@ -7,17 +7,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
-Astro                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JavaScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TypeScript               7 hrs 5 mins        ███████████████░░░░░░░░░░   58.68 % 
+JavaScript               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 28 mins      █████████████████████████   100.00 % 
+Cursor                   12 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -33,5 +33,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:07:53 UTC
+ Last Updated on 25/07/2026 02:07:18 UTC
 <!--END_SECTION:waka-->
