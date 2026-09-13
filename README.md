@@ -9,41 +9,41 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       █████████████░░░░░░░░░░░░   51.40 % 
-Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+TypeScript               4 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.91 % 
+JavaScript               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 29 mins       ████████████████████░░░░░   78.83 % 
-Agent                    2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Cursor                   7 hrs               ███████████████████░░░░░░   76.51 % 
+Agent                    2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 
 💻 Operating System: 
-Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 6 mins (92.32%)
+⏱ AI Coding Time: 8 hrs 29 mins (92.7%)
 
-✍️ 7,389 lines written by AI, 147 lines written by hand (98.05% AI-written)
+✍️ 4,977 lines written by AI, 143 lines written by hand (97.21% AI-written)
 
-🔤 198,721 Input Tokens, 198,721 Output Tokens
+🔤 194,080 Input Tokens, 194,080 Output Tokens
 
-💵 $3.58 Estimated AI Cost This Week
+💵 $3.49 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 303 AI Prompts
+🧠 36 AI Sessions, 238 AI Prompts
 
-Grok                     8,201 lines         █████████████████████████   100.00 % 
+Grok                     5,704 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.05% of written lines came from AI
-📚 Verbose Prompter — average 2,839 characters per prompt
+🤖 AI-Driven — 97.21% of written lines came from AI
+📚 Verbose Prompter — average 3,514 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.79% of changed lines were hand-edited
+🚀 High AI Trust — 2.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,5 +59,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 02:43:30 UTC
+ Last Updated on 13/09/2026 02:41:25 UTC
 <!--END_SECTION:waka-->
