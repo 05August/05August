@@ -9,23 +9,23 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        █████████████████████░░░░   83.17 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               1 hr 37 mins        ██████████████████████░░░   86.44 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   57 mins             ████████████████░░░░░░░░░   63.12 % 
-Agent                    33 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+Cursor                   57 mins             █████████████░░░░░░░░░░░░   50.78 % 
+Agent                    55 mins             ████████████░░░░░░░░░░░░░   49.22 % 
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (62.92%)
+⏱ AI Coding Time: 1 hr 19 mins (70.17%)
 
 ✍️ 0 lines written by AI, 87 lines written by hand (0.0% AI-written)
 
@@ -33,7 +33,7 @@ Mac                      1 hr 31 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 1 AI Prompts
+🧠 5 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -55,5 +55,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 03:39:40 UTC
+ Last Updated on 03/10/2026 03:24:06 UTC
 <!--END_SECTION:waka-->
