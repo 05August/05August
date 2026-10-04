@@ -1,7 +1,7 @@
 ### Hi, I'm Augustt 👋
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,25 +9,26 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ██████████████████████░░░   86.44 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               1 hr 39 mins        █████████████████████░░░░   82.50 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   57 mins             █████████████░░░░░░░░░░░░   50.78 % 
-Agent                    55 mins             ████████████░░░░░░░░░░░░░   49.22 % 
+Cursor                   1 hr 5 mins         █████████████░░░░░░░░░░░░   53.85 % 
+Agent                    55 mins             ████████████░░░░░░░░░░░░░   46.15 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (70.17%)
+⏱ AI Coding Time: 1 hr 19 mins (65.79%)
 
-✍️ 0 lines written by AI, 87 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -55,5 +56,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:24:06 UTC
+ Last Updated on 04/10/2026 03:51:36 UTC
 <!--END_SECTION:waka-->
