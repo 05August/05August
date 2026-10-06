@@ -9,38 +9,40 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 39 mins        █████████████████████░░░░   82.50 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               3 hrs 18 mins       ████████████████████░░░░░   78.87 % 
+Image (svg)              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Cursor                   1 hr 5 mins         █████████████░░░░░░░░░░░░   53.85 % 
-Agent                    55 mins             ████████████░░░░░░░░░░░░░   46.15 % 
+Cursor                   2 hrs 54 mins       █████████████████░░░░░░░░   69.38 % 
+Agent                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   30.62 % 
 
 💻 Operating System: 
-Mac                      2 hrs               █████████████████████████   100.00 % 
+Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (65.79%)
+⏱ AI Coding Time: 2 hrs 45 mins (65.9%)
 
-✍️ 0 lines written by AI, 126 lines written by hand (0.0% AI-written)
+✍️ 2,172 lines written by AI, 244 lines written by hand (89.9% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 1 AI Prompts
+🧠 11 AI Sessions, 28 AI Prompts
+
+Grok                     121 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 89.9% of written lines came from AI
+📝 Concise Prompter — average 397 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 15.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,5 +58,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 03:36:40 UTC
+ Last Updated on 06/10/2026 04:24:40 UTC
 <!--END_SECTION:waka-->
