@@ -9,24 +9,24 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 50 mins       █████████████████░░░░░░░░   68.54 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Image (svg)              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TypeScript               5 hrs 50 mins       █████████████████░░░░░░░░   66.55 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Agent                    6 hrs 33 mins       ███████████████████░░░░░░   77.09 % 
-Cursor                   1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Agent                    6 hrs 34 mins       ███████████████████░░░░░░   75.06 % 
+Cursor                   2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
 
 💻 Operating System: 
-Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 29 mins (76.19%)
+⏱ AI Coding Time: 6 hrs 44 mins (76.88%)
 
 ✍️ 4,488 lines written by AI, 135 lines written by hand (97.08% AI-written)
 
@@ -34,14 +34,14 @@ Mac                      8 hrs 30 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 113 AI Prompts
+🧠 22 AI Sessions, 117 AI Prompts
 
 Cursor                   4,268 lines         ████████████████████░░░░░   79.97 % 
 Grok                     1,069 lines         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.08% of written lines came from AI
-📝 Concise Prompter — average 236 characters per prompt
+📝 Concise Prompter — average 242 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 11.48% of changed lines were hand-edited
 ```
@@ -59,5 +59,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 03:28:55 UTC
+ Last Updated on 12/10/2026 03:52:40 UTC
 <!--END_SECTION:waka-->
