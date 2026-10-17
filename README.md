@@ -1,7 +1,7 @@
 ### Hi, I'm Augustt 👋
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,41 +9,40 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       █████████████████████░░░░   82.80 % 
-Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               3 hrs 13 mins       ██████████████████░░░░░░░   70.28 % 
+Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Agent                    4 hrs 49 mins       █████████████████████░░░░   84.75 % 
-Cursor                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Agent                    3 hrs 53 mins       █████████████████████░░░░   85.13 % 
+Cursor                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 
 💻 Operating System: 
-Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 7 mins (90.22%)
+⏱ AI Coding Time: 4 hrs 12 mins (91.82%)
 
-✍️ 3,010 lines written by AI, 29 lines written by hand (99.05% AI-written)
+✍️ 2,166 lines written by AI, 25 lines written by hand (98.86% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 70 AI Prompts
+🧠 9 AI Sessions, 54 AI Prompts
 
-Cursor                   3,200 lines         ████████████████████████░   94.59 % 
-Grok                     183 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Cursor                   2,319 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
+🤖 AI-Driven — 98.86% of written lines came from AI
+📝 Concise Prompter — average 437 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.11% of changed lines were hand-edited
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,5 +58,5 @@ Less                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 02:45:46 UTC
+ Last Updated on 17/10/2026 02:37:32 UTC
 <!--END_SECTION:waka-->
