@@ -9,57 +9,55 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       ████████████████████░░░░░   80.10 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Image (png)              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               6 hrs 12 mins       █████████████████░░░░░░░░   68.74 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 7 mins        ████████████████░░░░░░░░░   63.06 % 
-Agent                    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Cursor Agent             46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Cursor                   7 hrs 6 mins        ████████████████████░░░░░   78.75 % 
+Cursor Agent             1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
 
 💻 Operating System: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 21 mins (97.5%)
+⏱ AI Coding Time: 8 hrs 41 mins (96.37%)
 
-✍️ 2,834 lines written by AI, 164 lines written by hand (94.53% AI-written)
+✍️ 3,132 lines written by AI, 177 lines written by hand (94.65% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 99 AI Prompts
+🧠 13 AI Sessions, 119 AI Prompts
 
-Default                  1,882 lines         ██████████████░░░░░░░░░░░   56.81 % 
-Cursor                   1,291 lines         ██████████░░░░░░░░░░░░░░░   38.97 % 
-Grok                     140 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Default                  3,553 lines         ████████████████████████░   96.21 % 
+Grok                     140 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.53% of written lines came from AI
-📝 Concise Prompter — average 127 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 4.74% of changed lines were hand-edited
+🤖 AI-Driven — 94.65% of written lines came from AI
+📝 Concise Prompter — average 103 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 4.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JavaScript               14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Astro                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 26/10/2026 02:47:03 UTC
+ Last Updated on 27/10/2026 03:20:54 UTC
 <!--END_SECTION:waka-->
