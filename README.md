@@ -9,43 +9,43 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 49 mins       █████████████░░░░░░░░░░░░   50.63 % 
-Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Other                    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+TypeScript               7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.78 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Other                    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 56 mins      ███████████████████░░░░░░   74.21 % 
-Cursor Agent             4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Cursor                   10 hrs 59 mins      ██████████████████░░░░░░░   70.99 % 
+Cursor Agent             4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Mac                      17 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 42 mins (95.79%)
+⏱ AI Coding Time: 14 hrs 33 mins (94.04%)
 
-✍️ 10,701 lines written by AI, 110 lines written by hand (98.98% AI-written)
+✍️ 10,083 lines written by AI, 29 lines written by hand (99.71% AI-written)
 
 🔤 1,046,431 Input Tokens, 210,044 Output Tokens
 
 💵 $4.34 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 257 AI Prompts
+🧠 109 AI Sessions, 238 AI Prompts
 
-Default                  11,862 lines        █████████████████████████   99.42 % 
-Claude-Opus              69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Default                  11,099 lines        █████████████████████████   99.38 % 
+Claude-Opus              69 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📄 Detailed Prompter — average 1,158 characters per prompt
+🤖 AI-Driven — 99.71% of written lines came from AI
+📄 Detailed Prompter — average 1,244 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +61,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 03:58:58 UTC
+ Last Updated on 31/10/2026 03:43:30 UTC
 <!--END_SECTION:waka-->
